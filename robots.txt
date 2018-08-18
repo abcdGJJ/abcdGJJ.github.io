@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /tags/
+Allow: /about/
+Allow: /categories/
+
+Sitemap: http://gaojiajun.cn/sitemap.xml
+Sitemap: http://gaojiajun.cn/baidusitemap.xml
