@@ -5,5 +5,5 @@ Allow: /tags/
 Allow: /about/
 Allow: /categories/
 
-Sitemap: http://gaojiajun.cn/sitemap.xml
-Sitemap: http://gaojiajun.cn/baidusitemap.xml
+Sitemap: https://gaojiajun.cn/sitemap.xml
+Sitemap: https://gaojiajun.cn/baidusitemap.xml
