@@ -1,3 +1,4 @@
+https://gaojiajun.cn/2018/09/Front-End-Performance-Checklist/
 https://gaojiajun.cn/2018/08/charles-notTrust-in-android7.0/
 https://gaojiajun.cn/2018/06/web-attack-defense/
 https://gaojiajun.cn/2018/04/js-toLocaleString-skills/
@@ -59,4 +60,3 @@ https://gaojiajun.cn/2015/07/tcp-three-handshake/
 https://gaojiajun.cn/2015/06/icmp-decompose/
 https://gaojiajun.cn/2015/06/ip-baowen-analysis/
 https://gaojiajun.cn/2015/06/webstorm-jihuo/
-https://gaojiajun.cn/2015/06/sublime-text-2and3/
