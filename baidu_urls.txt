@@ -1,3 +1,4 @@
+https://gaojiajun.cn/2019/12/typescript-axios-interceptor-commondata/
 https://gaojiajun.cn/2019/10/refactor/
 https://gaojiajun.cn/2019/01/flex-layout-computed/
 https://gaojiajun.cn/2018/10/30-seconds-of-code/
