@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://gaojiajun.cn/2018/09/front-end-performance-checklist/</loc>
+    
+    <lastmod>2024-11-26T06:39:42.944Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://gaojiajun.cn/2020/06/css-dark-mode/</loc>
     
     <lastmod>2020-08-18T13:26:47.843Z</lastmod>
@@ -40,13 +47,6 @@
     <loc>https://gaojiajun.cn/2019/01/flex-layout-computed/</loc>
     
     <lastmod>2019-01-22T08:30:23.565Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://gaojiajun.cn/2018/09/front-end-performance-checklist/</loc>
-    
-    <lastmod>2018-09-27T12:48:55.274Z</lastmod>
     
   </url>
   
